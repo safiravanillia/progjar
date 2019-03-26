@@ -38,10 +38,7 @@ except socket.error:
 
 while True:
     inputan = raw_input("\nOpsi perintah: \n1. req [nama_file]\n2. quit\n ")
-
-    command = inputan.encode('utf-8')
-    sock.sendto(command, (host, port))
-
+    sock.sendto(inputan, (host, port))
     opsi = inputan.split()
 
     if opsi[0] == "req":#proses dimulai

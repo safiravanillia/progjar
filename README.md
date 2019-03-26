@@ -1,19 +1,8 @@
-# Tugas 1
+# Repository Tugas
 
-client-server
-
-### Cara Menjalankan Program
-
-Jalankan server
+Pemrograman Jaringan E
 
 ```
-python server.py
+Safira Vanillia Putri
+05111640000001
 ```
-
-Jalankan client
-
-```
-python client.py
-```
-
-Ketikkan inputan pada cmd client

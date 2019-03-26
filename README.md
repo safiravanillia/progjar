@@ -1,4 +1,19 @@
-Repository Tugas Pemrograman Jaringan (E)
+# Tugas 1
 
-Safira Vanillia Putri
-05111640000001
+client-server
+
+### Cara Menjalankan Program
+
+Jalankan server
+
+```
+python server.py
+```
+
+Jalankan client
+
+```
+python client.py
+```
+
+Ketikkan inputan pada cmd client
